@@ -1,10 +1,10 @@
-#Dokternet x Botika
+# Dokternet x Botika
 Collaboration between Dokternet and Botika
 
-##API Documentation
-###https://documenter.getpostman.com/view/2648013/SVfTN6wa
+## API Documentation
+### https://documenter.getpostman.com/view/2648013/SVfTN6wa
 
-##API List
+## API List
 - Menampilkan semua medical center
   - [**API Documentation**](https://documenter.getpostman.com/view/2648013/SVfTN6wa?version=latest#be632b2b-2f57-44da-b27d-7e32d3cac2a2)
   - [_API Response_](https://api.myjson.com/bins/eapyz)
@@ -21,8 +21,8 @@ Collaboration between Dokternet and Botika
   - [**API Documentation**](https://documenter.getpostman.com/view/2648013/SVfTN6wa?version=latest#8025bd8d-5d7c-436f-857f-ef0b4cba2cb0)
   - [_API Response_](https://api.myjson.com/bins/oh8ez)
   
-##Miscellaneous
-###Common Error
+## Miscellaneous
+### Common Error
 - Application ID not found
 ```javascript
 {
